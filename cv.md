@@ -29,4 +29,9 @@ Frontend developer student
 
 ## **Education**
 
-* 
+- Russian State Social University / Economy (finance and credit)
+- International business academy / Industrial and civil construction
+
+## English
+
+А2
