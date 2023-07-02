@@ -1,1 +1,1 @@
-# rsschool-cv
+https://shokked.github.io/rsschool-cv/
