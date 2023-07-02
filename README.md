@@ -1,1 +1,2 @@
-https://Shokked.github.io/rsschool-cv/cv
+https://shokked.github.io/rsschool-cv/
+
