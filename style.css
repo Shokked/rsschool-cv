@@ -1,0 +1,342 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+.main-container {
+  width: 1000px;
+  height: 1500px;
+  background-color: blueviolet;
+  margin: 0 auto;
+  display: flex;
+  box-shadow: 2px 2px 10px 2px black;
+}
+.my-photo {
+  width: 300px;
+  height: 300px;
+  background-color: #e0e0d4;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: 15px;
+  position: relative;
+}
+.photo {
+  max-width: 100%;
+  max-height: 100%;
+}
+.info {
+  width: 300px;
+  height: 1500px;
+  background-color: black;
+}
+.second-info {
+  width: 700px;
+  height: 1500px;
+  background-color: rgb(224, 224, 212);
+}
+.header {
+  width: 300px;
+  height: 400px;
+  background-color: rgb(0, 0, 0);
+}
+.name {
+  text-align: center;
+  color: white;
+  margin-top: 15px;
+}
+.contact {
+  width: 100%;
+  height: 300px;
+  background-color: rgb(0, 0, 0);
+}
+.white-contact-main {
+  width: 100%;
+  margin: 20px 0 20px 0;
+  display: inline-block;
+}
+.white-contact1 {
+  width: 90%;
+  height: 30px;
+  background-color: #e0e0d4;
+  float: right;
+  text-align: center;
+}
+.white-contact2 {
+  width: 30px;
+  height: 30px;
+  background-color: #e0e0d4;
+  border-radius: 50%;
+  margin-left: 15px;
+}
+.phone {
+  width: 100%;
+}
+.number-phone {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  display: flex;
+  color: white;
+}
+.for-phone {
+  width: 10%;
+  height: 30px;
+  margin: auto;
+  margin-right: 30px;
+}
+.icon {
+  width: 100%;
+}
+.number {
+  margin: auto;
+  margin-right: 66px;
+}
+.email {
+  margin: auto;
+  margin-right: 6px;
+}
+.git {
+  margin: auto;
+  margin-right: 70px;
+}
+.github {
+  margin: auto;
+  margin-right: 75px;
+  color: white;
+  text-decoration: none;
+}
+.discord {
+  margin: auto;
+  margin-right: 95px;
+}
+.first-skill {
+  margin: auto;
+  margin-right: 119px;
+}
+.second-skill {
+  margin: auto;
+  margin-right: 135px;
+}
+.third-skill {
+  margin: auto;
+  margin-right: 90px;
+}
+.fouth-skill {
+  margin: auto;
+  margin-right: 120px;
+}
+.first-student {
+  margin: auto;
+  margin-left: 10 px;
+}
+.second-student {
+  margin: auto;
+  margin-left: 300 px;
+}
+.first-lang {
+  margin: auto;
+  margin-left: 5px;
+  margin-top: 40px;
+}
+.second-lang {
+  margin: auto;
+  margin-right: 53px;
+}
+.navigation {
+  display: flex;
+  list-style-type: none;
+  text-align: center;
+}
+.bottom-nav {
+  margin-top: 25px;
+}
+.profile {
+  height: 150px;
+  background-color: #E0E0D4;
+  margin-top: 50px;
+}
+.shift-text {
+  float: left;
+  margin-left: 20px;
+}
+.creat-line {
+  height: 3px;
+  background-color: black;
+  width: 80%;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 21px;
+  margin-bottom: 10px;
+}
+.first-text-profile {
+  width: 80%;
+  margin-left: 21px;
+  font-size: 25px;
+  font-style: italic;
+}
+.height-last-container {
+  height: 150px;
+}
+.footer {
+  height: 50px;
+  width: 1000px;
+  background-color: #e0e0d4;
+  box-shadow: 2px 2px 10px 2px black;
+}
+.footer-section {
+  height: 50px;
+  width: 600px;
+  background-color: #e0e0d4;
+}
+.last-information {
+  align-items: center;
+  margin: auto;
+  display: flex;
+}
+.img-law {
+  width: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.year {
+  margin-top: 10px;
+  text-align: left;
+}
+.icon-git {
+  margin-top: 10px;
+}
+.text-git {
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+}
+.second-git {
+  float: left;
+  height: 15px;
+}
+.rs-logo {
+  width: 70px;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: #e0e0d4;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: tomato;
+}
+.ul-bottom {
+  margin-top: 40px;
+}
+.color-ul {
+  color: white;
+  list-style-type: none;
+  margin-top: 40px;
+}
+.disc-right {
+  margin-right: 3px;
+}
+.ul-left {
+  width: 100%;
+  margin-right: 100px;
+  margin-top: 40px;
+}
+.first-student2 {
+  width: 100%;
+}
+.second-enducat {
+  margin-top: 30px;
+}
+.code-example {
+  height: 350px;
+  background-color: #E0E0D4;
+  margin-top: 50px;
+  font-style: normal;
+}
+.code {
+  height: 300px;
+  width: 560px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-style: normal;
+}
+.bracket {
+  color: white;
+  margin-left: 30px;
+  font-style: normal;
+}
+.first-function {
+  color: aqua;
+  font-style: normal;
+}
+.var {
+  margin-left: 80px;
+  color: aqua;
+}
+.func {
+  margin-left: 5px;
+  color: greenyellow;
+}
+.equals {
+  margin-left: 15px;
+  color: rgb(220, 20, 203);
+}
+.second-function {
+  color: aqua;
+  margin: 10px;
+}
+.callback {
+  color: orange;
+}
+.second-var {
+  color: aqua;
+  margin-left: 125px;
+}
+.second-equals {
+  color: rgb(220, 20, 203);
+  margin-left: 10px;
+}
+.js-ivan {
+  color: rgb(235, 235, 105);
+  margin-left: 10px;
+}
+.second-callback {
+  margin-left: 125px;
+}
+.second-bracket {
+  margin-left: 80px;
+}
+.second-func {
+  margin-left: 80px;
+}
+.third-function {
+  color: aqua;
+}
+.alert {
+  color: aqua;
+  margin-left: 125px;
+}
+.hello-text {
+  color: rgb(235, 235, 105);;
+}
+.plus {
+  color: rgb(220, 20, 203);
+}
+.signs {
+  margin-left: 80px;
+}
+.second-signs {
+  margin-left: 30px;
+}
+.size-project {
+  height: 407px;
+  background-color: #E0E0D4;
+  margin-top: 50px
+}
+.markdown {
+  width: 100%;
+}
+.p {
+  margin-top: 5px;
+}
